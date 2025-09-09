@@ -42,7 +42,7 @@ const TodoDetailedScreen = ({
         content: content,
         completed: todo.completed,
       });
-    }, 6000);
+    }, 2000);
   };
 
   // Update content with a delay of 2 seconds after the user stops typing
@@ -55,7 +55,7 @@ const TodoDetailedScreen = ({
         content: text,
         completed: todo.completed,
       });
-    }, 6000);
+    }, 2000);
   };
 
   return (
