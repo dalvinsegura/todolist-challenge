@@ -21,6 +21,28 @@ El proyecto está dividido en dos partes principales:
 - **Estado**: TanStack Query (React Query)
 - **HTTP Client**: Axios
 
+## Demo
+
+A continuación se muestran capturas de pantalla de la aplicación:
+
+### Pantalla de Onboarding
+
+![Onboarding](onboarding-screenshot.png)
+
+### Pantalla Principal - Home
+
+![Home 1](home-1-screenshot.png)
+
+![Home 2](home-2-screenshot.png)
+
+### Crear Nueva Tarea
+
+![Create Task](create-task-screenshot.png)
+
+### Detalle de Tarea
+
+![Task Detail](task-detail-screenshot.png)
+
 ## Instalación y Ejecución
 
 ### Backend
